@@ -56,10 +56,6 @@ Visual Studio, VS Code, or any preferred C# IDE
 
 Running the Project
 Clone the repository
-
-bash
-Copy
-Edit
 git clone https://github.com/Abdelrahman1625/ECommerceSystem.git
 cd ECommerceSystem
 Run using Visual Studio
